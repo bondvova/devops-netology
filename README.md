@@ -1,1 +1,1 @@
-# devops-netology
+/usr/bin/bash: wq: command not found
