@@ -94,5 +94,5 @@ print('\033[0m')
 ### Вывод скрипта при запуске при тестировании:
 ```
 вывод приложил скриншот в папку 
-https://github.com/rmx7799/devops-netology/tree/main/Phyton-Module/task3-out.png
+https://github.com/bondvova/devops-netology/blob/main/task4-out.png
 ```
